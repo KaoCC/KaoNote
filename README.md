@@ -1,0 +1,2 @@
+# KaoNote
+Some Notes
